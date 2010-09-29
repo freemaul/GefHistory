@@ -1,0 +1,3 @@
+[submodule "GefMoteur"]
+	path = GefMoteur
+	url = git://github.com/freemaul/GefMoteur.git
